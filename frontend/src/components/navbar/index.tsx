@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
 import './styles.css';
 
