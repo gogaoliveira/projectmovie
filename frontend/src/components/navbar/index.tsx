@@ -5,12 +5,12 @@ function Navbar() {
     return (
         <header>
             <nav className="container">
-                <div className="movie-nav-content">
+                <div className="dsmovie-nav-content">
                     <h1>ProjectMovie</h1>
                     <a href="https://github.com/gogaoliveira" target="_blank" rel="noreferrer">
-                        <div className="movie-contact-container">
+                        <div className="dsmovie-contact-container">
                             <GithubIcon />
-                            <p className='movie-contact-link'>/gogaoliveira</p>
+                            <p className='dsmovie-contact-link'>/gogaoliveira</p>
                         </div>
                     </a>
                 </div>
